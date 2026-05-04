@@ -1,7 +1,7 @@
 {
   "name": "global-tyre-api",
   "version": "1.0.0",
-  "description": "API para el chatbot de Grupo Limex",
+  "description": "API comercial para Global Tyre",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
