@@ -1,0 +1,782 @@
+[
+    {
+        "medida": "100/80-17",
+        "descripcion": "MAXIRUBBER 100/80-17 TUBULAR 6-PR SY-009 210",
+        "precio": "150",
+        "marca": "MAXIRUBBER"
+    },
+    {
+        "medida": "100/90-17",
+        "descripcion": "MAXIRUBBER 100/90-17 TUBULAR 8-PR SY-051 250",
+        "precio": "150",
+        "marca": "MAXIRUBBER"
+    },
+    {
+        "medida": "100/90-17",
+        "descripcion": "MAXIRUBBER 100/90-17 TUBULAR 8-PR SY-126 250",
+        "precio": "150",
+        "marca": "MAXIRUBBER"
+    },
+    {
+        "medida": "110/90-17",
+        "descripcion": "MAXIRUBBER 110/90-17 P/CAMARA 6PR SY-149 260",
+        "precio": "150",
+        "marca": "MAXIRUBBER"
+    },
+    {
+        "medida": "140/70-17",
+        "descripcion": "MAXIRUBBER 140/70-17 TUBULAR 6-PR SY-123 330",
+        "precio": "150",
+        "marca": "MAXIRUBBER"
+    },
+    {
+        "medida": "2.50-17",
+        "descripcion": "MAXIRUBBER 2.50-17 P/CAMARA 6-PR SY-029 100",
+        "precio": "150",
+        "marca": "MAXIRUBBER"
+    },
+    {
+        "medida": "2.50-17",
+        "descripcion": "MAXIRUBBER 2.50-17 P/CAMARA 6-PR SY-003 100",
+        "precio": "150",
+        "marca": "MAXIRUBBER"
+    },
+    {
+        "medida": "2.75-17",
+        "descripcion": "MAXIRUBBER 2.75-17 P/CAMARA 6-PR SY-029 100",
+        "precio": "150",
+        "marca": "MAXIRUBBER"
+    },
+    {
+        "medida": "2.75-17",
+        "descripcion": "MAXIRUBBER 2.75-17 P/CAMARA 6-PR SY-003 100",
+        "precio": "150",
+        "marca": "MAXIRUBBER"
+    },
+    {
+        "medida": "2.75-18",
+        "descripcion": "MAXIRUBBER 2.75-18 TUBULAR 8-PR SY-028 170",
+        "precio": "150",
+        "marca": "MAXIRUBBER"
+    },
+    {
+        "medida": "2.75-18",
+        "descripcion": "MAXIRUBBER 2.75-18 P/CAMARA 8-PR SY-028 160",
+        "precio": "150",
+        "marca": "MAXIRUBBER"
+    },
+    {
+        "medida": "2.75-18",
+        "descripcion": "MAXIRUBBER 2.75-18 P/CAMARA 8-PR SY-051 160",
+        "precio": "150",
+        "marca": "MAXIRUBBER"
+    },
+    {
+        "medida": "3.00-17",
+        "descripcion": "MAXIRUBBER 3.00-17 TUBULAR 8-PR SY-051 170",
+        "precio": "150",
+        "marca": "MAXIRUBBER"
+    },
+    {
+        "medida": "3.00-18",
+        "descripcion": "MAXIRUBBER 3.00-18 P/CAMARA 8-PR SY-122 180",
+        "precio": "150",
+        "marca": "MAXIRUBBER"
+    },
+    {
+        "medida": "3.00-18",
+        "descripcion": "MAXIRUBBER 3.00-18 TUBULAR 8-PR SY-028 190",
+        "precio": "150",
+        "marca": "MAXIRUBBER"
+    },
+    {
+        "medida": "3.00-18",
+        "descripcion": "MAXIRUBBER 3.00-18 P/CAMARA 8-PR SY-051 180",
+        "precio": "150",
+        "marca": "MAXIRUBBER"
+    },
+    {
+        "medida": "3.25-18",
+        "descripcion": "MAXIRUBBER 3.25-18 TUBULAR 8-PR SY-051 240",
+        "precio": "150",
+        "marca": "MAXIRUBBER"
+    },
+    {
+        "medida": "3.25-18",
+        "descripcion": "MAXIRUBBER 3.25-18 P/CAMARA 8-PR SY-051 230",
+        "precio": "150",
+        "marca": "MAXIRUBBER"
+    },
+    {
+        "medida": "3.25-21",
+        "descripcion": "MAXIRUBBER 3.25-21 P/CAMARA 6PR SY-235 AGOTADA",
+        "precio": "150",
+        "marca": "MAXIRUBBER"
+    },
+    {
+        "medida": "4.00-8",
+        "descripcion": "MAXIRUBBER 4.00-8 TUBULAR 8-PR SY-155 210",
+        "precio": "150",
+        "marca": "MAXIRUBBER"
+    },
+    {
+        "medida": "4.60-17",
+        "descripcion": "MAXIRUBBER 4.60-17 P/CAMARA 6-PR SY-019 290",
+        "precio": "150",
+        "marca": "MAXIRUBBER"
+    },
+    {
+        "medida": "4.60-18",
+        "descripcion": "MAXIRUBBER 4.60-18 P/CAMARA 8-PR SY-019 300",
+        "precio": "150",
+        "marca": "MAXIRUBBER"
+    },
+    {
+        "medida": "80/100-14",
+        "descripcion": "MAXIRUBBER 80/100-14 P/CAMARA 6-PR SY-202 100",
+        "precio": "150",
+        "marca": "MAXIRUBBER"
+    },
+    {
+        "medida": "80/100-14",
+        "descripcion": "MAXIRUBBER 80/100-14 P/CAMARA 6-PR SY-177 100",
+        "precio": "150",
+        "marca": "MAXIRUBBER"
+    },
+    {
+        "medida": "90/90-18",
+        "descripcion": "MAXIRUBBER 90/90-18 P/CAMARA 6-PR SY-060 150",
+        "precio": "150",
+        "marca": "MAXIRUBBER"
+    },
+    {
+        "medida": "90/90-19",
+        "descripcion": "MAXIRUBBER 90/90-19 P/CAMARA 6PR SY-149 190",
+        "precio": "150",
+        "marca": "MAXIRUBBER"
+    },
+    {
+        "medida": "90/90-21",
+        "descripcion": "MAXIRUBBER 90/90-21 P/CAMARA 6-PR SY-149 200",
+        "precio": "150",
+        "marca": "MAXIRUBBER"
+    },
+    {
+        "medida": "100/90-17",
+        "descripcion": "100/90-17 TL SY-051",
+        "precio": "250",
+        "marca": "MAXIRUBBER"
+    },
+    {
+        "medida": "100/90-17",
+        "descripcion": "100/90-17 TL SY-126",
+        "precio": "250",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "100/80-17",
+        "descripcion": "100/80-17 TL SY-009",
+        "precio": "210",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "110/90-17",
+        "descripcion": "110/90-17 6PR TT SY-149",
+        "precio": "260",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "140/70-17",
+        "descripcion": "140/70-17 TL 6PR SY- 123",
+        "precio": "330",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "3.00-17",
+        "descripcion": "3.00-17 8PR TL SY-051",
+        "precio": "170",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "2.50-17",
+        "descripcion": "2.50-17 TT SY-029",
+        "precio": "100",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "2.75-17",
+        "descripcion": "2.75-17 TT 6PR SY-029",
+        "precio": "100",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "2.50-17",
+        "descripcion": "100 BS2.50-17 TT SY-003",
+        "precio": "100",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "2.75-17",
+        "descripcion": "2.75-17  6PR TT SY-003100 BS",
+        "precio": "003100",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "2.75-18",
+        "descripcion": "2.75-18 8PR TL SY-028",
+        "precio": "170",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "2.75-18",
+        "descripcion": "170 BS2.75-18 8PR TT SY-051",
+        "precio": "170",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "3.00-18",
+        "descripcion": "3.00-18 8PR TT SY-051",
+        "precio": "180",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "3.00-18",
+        "descripcion": "180 BS3.00-18 8PR TL SY-028",
+        "precio": "180",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "3.00-18",
+        "descripcion": "3.00-18 8PR TT SY-122",
+        "precio": "180",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "2.75-18",
+        "descripcion": "2.75-18 8PR TL SY-028",
+        "precio": "160",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "3.25-18",
+        "descripcion": "3.25-18 8PR TL SY-051",
+        "precio": "240",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "3.25-18",
+        "descripcion": "240 BS3.25-18 8PR TT SY-051",
+        "precio": "240",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "4.60-18",
+        "descripcion": "4.60-18 8PR TT SY-019",
+        "precio": "300",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "80/100-14",
+        "descripcion": "80/100-14 6PR TT SY-177",
+        "precio": "100",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "80/100-14",
+        "descripcion": "80/100-14 6PR TT SY-202",
+        "precio": "100",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "90/90-19",
+        "descripcion": "90/90-19 TT 6PR   SY-149",
+        "precio": "190",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "90/90-18",
+        "descripcion": "90/90-18 6PR TT SY-060",
+        "precio": "150",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "4.00-8",
+        "descripcion": "4.00-8 8PR TL SY-155",
+        "precio": "210",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "90/90-21",
+        "descripcion": "90/90-21 TT 6PR  SY-149",
+        "precio": "200",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "100/90-17",
+        "descripcion": "MAXIBRAS 100/90-17 TUBULAR 8-PR HX-047 270",
+        "precio": "150",
+        "marca": "MAXIRUBBER"
+    },
+    {
+        "medida": "100/90-17",
+        "descripcion": "MAXIBRAS 100/90-17 TUBULAR 8-PR SY-126 300",
+        "precio": "150",
+        "marca": "MAXIRUBBER"
+    },
+    {
+        "medida": "110/90-13",
+        "descripcion": "MAXIBRAS 110/90-13 TUBULAR 8-PR SY-089 250",
+        "precio": "150",
+        "marca": "MAXIRUBBER"
+    },
+    {
+        "medida": "110/90-16",
+        "descripcion": "MAXIBRAS 110/90-16 TUBULAR 8-PR SY-051 300",
+        "precio": "150",
+        "marca": "MAXIRUBBER"
+    },
+    {
+        "medida": "2.50-17",
+        "descripcion": "MAXIBRAS 2.50-17 TUBULAR 8-PR THMC070 120",
+        "precio": "150",
+        "marca": "MAXIRUBBER"
+    },
+    {
+        "medida": "2.75-18",
+        "descripcion": "MAXIBRAS 2.75-18 TUBULAR 8-PR SY-051 200",
+        "precio": "150",
+        "marca": "MAXIRUBBER"
+    },
+    {
+        "medida": "3.00-18",
+        "descripcion": "MAXIBRAS 3.00-18 TUBULAR 8-PR SY-122 230",
+        "precio": "150",
+        "marca": "MAXIRUBBER"
+    },
+    {
+        "medida": "3.25-18",
+        "descripcion": "MAXIBRAS 3.25-18 TUBULAR 8-PR SY-051 250",
+        "precio": "150",
+        "marca": "MAXIRUBBER"
+    },
+    {
+        "medida": "80/100-14",
+        "descripcion": "MAXIBRAS 80/100-14 TUBULAR 8-PR THMC052 120",
+        "precio": "150",
+        "marca": "MAXIRUBBER"
+    },
+    {
+        "medida": "2.75-17",
+        "descripcion": "MAXIBRAS 2.75-17 TUBULAR 8-PR THMC070 AGOTADA",
+        "precio": "150",
+        "marca": "MAXIRUBBER"
+    },
+    {
+        "medida": "100/90-17",
+        "descripcion": "100/90-17 TL 8PR SY- 126",
+        "precio": "300",
+        "marca": "MAXIRUBBER"
+    },
+    {
+        "medida": "100/90-17",
+        "descripcion": "300 BS 270 BS100/90-17 TL HX -047",
+        "precio": "300",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "2.50-17",
+        "descripcion": "2.50-17 TL THMC -070",
+        "precio": "150",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "2.75-18",
+        "descripcion": "2.75-18 TL 8PR SY- 051",
+        "precio": "120",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "110/90-16",
+        "descripcion": "110/90-16 TL SY-051",
+        "precio": "300",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "110/90-13",
+        "descripcion": "110/90-13 TL 8PR SY-089",
+        "precio": "250",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "3.00-18",
+        "descripcion": "3.00-18 TL 8PR SY-122",
+        "precio": "230",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "3.25-18",
+        "descripcion": "3.25-18 TL 8PR SY-051",
+        "precio": "250",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "2.75-17",
+        "descripcion": "2.75-17 TL THMC -070",
+        "precio": "150",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "80/100-14",
+        "descripcion": "80/100-14 TL  THMC-052",
+        "precio": "120",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "110/90-13",
+        "descripcion": "RUNWELL 110/90-13 TUBULAR 8-PR RT-128 230",
+        "precio": "150",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "2.75-18",
+        "descripcion": "RUNWELL 2.75-18 P/CAMARA 8-PR RT-128 180",
+        "precio": "150",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "2.75-18",
+        "descripcion": "RUNWELL 2.75-18 P/CAMARA 8-PR RT-150 180",
+        "precio": "150",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "3.00-14",
+        "descripcion": "RUNWELL 3.00-14 P/CAMARA 8-PR RT-128 150",
+        "precio": "150",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "3.00-17",
+        "descripcion": "RUNWELL 3.00-17 TUBULAR 8PR RT-218 190",
+        "precio": "150",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "3.00-18",
+        "descripcion": "RUNWELL 3.00-18 TUBULAR 8PR RT-128 210",
+        "precio": "150",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "3.00-18",
+        "descripcion": "RUNWELL 3.00-18 P/CAMARA 8-PR RT-128 200",
+        "precio": "150",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "3.00-18",
+        "descripcion": "RUNWELL 3.00-18 P/CAMARA 8-PR RT-150 200",
+        "precio": "150",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "3.25-18",
+        "descripcion": "RUNWELL 3.25-18 P/CAMARA 8-PR RT-128 230",
+        "precio": "150",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "5.00-12",
+        "descripcion": "RUNWELL 5.00-12 TUBULAR 8PR RT-159 300",
+        "precio": "150",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "5.00-12",
+        "descripcion": "RUNWELL 5.00-12 P/CAMARA 8-PR RT-159 290",
+        "precio": "230",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "110/90-13",
+        "descripcion": "110/90-13 8PR TL RT-128",
+        "precio": "128150",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "3.00-14",
+        "descripcion": "3.00-14 TT RT 128150 BS",
+        "precio": "128150",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "3.00-18",
+        "descripcion": "3.00-18 TL 8PR RT-128",
+        "precio": "210",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "3.00-18",
+        "descripcion": "3.00-18 TT 8PR RT-128",
+        "precio": "200",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "3.00-18",
+        "descripcion": "3.00-18 TT 8PR RT-150",
+        "precio": "200",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "3.00-17",
+        "descripcion": "3.00-17 TL 8PR RT-218",
+        "precio": "190",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "3.25-18",
+        "descripcion": "3.25-18  TT 8PR RT-128",
+        "precio": "230",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "5.00-12",
+        "descripcion": "5.00-12  TL 8PR RT-159",
+        "precio": "300",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "5.00-12",
+        "descripcion": "5.00-12 TT 8PR RT-159",
+        "precio": "290",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "100/80-17",
+        "descripcion": "ZUNNY 100/80-17 TUBULAR 6-PR SY-009 210",
+        "precio": "150",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "100/90-17",
+        "descripcion": "ZUNNY 100/90-17 TUBULAR 6-PR SY-126 245",
+        "precio": "150",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "110/90-13",
+        "descripcion": "ZUNNY 110/90-13 P/CAMARA 6PR SY-171 220",
+        "precio": "150",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "110/90-17",
+        "descripcion": "ZUNNY 110/90-17 P/CAMARA 6-PR SY-149 260",
+        "precio": "150",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "120/80-17",
+        "descripcion": "ZUNNY 120/80-17 P/CAMARA 6-PR SY-126 280",
+        "precio": "150",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "140/60-17",
+        "descripcion": "ZUNNY 140/60-17 TUBULAR 6-PR SY-135 320",
+        "precio": "150",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "140/70-17",
+        "descripcion": "ZUNNY 140/70-17 TUBURLAR 6-PR SY-123 330",
+        "precio": "150",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "2.50-17",
+        "descripcion": "ZUNNY 2.50-17 P/CAMARA 6PR SY-003 100",
+        "precio": "150",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "2.50-17",
+        "descripcion": "ZUNNY 2.50-17 P/CAMARA 6-PR SY-029 100",
+        "precio": "150",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "2.75-17",
+        "descripcion": "ZUNNY 2.75-17 P/CAMARA 6-PR SY-003 100",
+        "precio": "150",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "2.75-17",
+        "descripcion": "ZUNNY 2.75-17 P/CAMARA 6-PR SY-029 100",
+        "precio": "150",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "4.60-17",
+        "descripcion": "ZUNNY 4.60-17 P/CAMARA 6-PR SY-019 280",
+        "precio": "150",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "4.60-18",
+        "descripcion": "ZUNNY 4.60-18 P/CAMARA 6PR SY-019 290",
+        "precio": "150",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "80/100-14",
+        "descripcion": "ZUNNY 80/100-14 P/CAMARA 6-PR SY-177 100",
+        "precio": "150",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "80/100-14",
+        "descripcion": "ZUNNY 80/100-14 P/CAMARA 6PR SY-202 100",
+        "precio": "150",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "90/90-18",
+        "descripcion": "ZUNNY 90/90-18 P/CAMARA 6-PR SY-025 150",
+        "precio": "150",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "90/90-18",
+        "descripcion": "ZUNNY 90/90-18 P/CAMARA 6-PR SY-060 150",
+        "precio": "150",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "90/90-19",
+        "descripcion": "ZUNNY 90/90-19 P/CAMARA 6-PR SY-149 190",
+        "precio": "150",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "90/90-21",
+        "descripcion": "ZUNNY 90/90-21 P/CAMARA 6-PR SY-149 200",
+        "precio": "126235",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "100/80-17",
+        "descripcion": "100/90 -17 TL 6PR SY-126235 BS100/80-17 TL 6PR SY-009",
+        "precio": "126235",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "110/90-17",
+        "descripcion": "110/90-17 TT 6PR SY-149",
+        "precio": "260",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "120/80-17",
+        "descripcion": "120/80-17 TT 6PR SY-126",
+        "precio": "280",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "2.75-18",
+        "descripcion": "2.75-18 TT 6PR SY-025",
+        "precio": "160",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "2.75-17",
+        "descripcion": "2.75-17 TT 6PR SY-029",
+        "precio": "100",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "140/60-17",
+        "descripcion": "140/60-17 TL 6PR SY-135",
+        "precio": "320",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "140/70-17",
+        "descripcion": "140/70-17 TL 6PR SY-123",
+        "precio": "330",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "2.50-17",
+        "descripcion": "2.50-17 TT 6PR SY-003",
+        "precio": "100",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "2.50-17",
+        "descripcion": "2.50-17 TL 6PR SY-029",
+        "precio": "100",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "2.75-17",
+        "descripcion": "2.75-17 TT 6PR SY-003",
+        "precio": "100",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "80/100-14",
+        "descripcion": "80/100-14 TT 6PR SY-177",
+        "precio": "100",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "4.60-17",
+        "descripcion": "4.60-17 6 PR SY-019",
+        "precio": "280",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "4.60-18",
+        "descripcion": "4.60-18 TT 6PR SY-019",
+        "precio": "290",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "80/100-14",
+        "descripcion": "80/100-14 TT 6PR SY-202",
+        "precio": "100",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "90/90-19",
+        "descripcion": "90/90-19 TT 6PR  SY-149",
+        "precio": "190",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "90/90-18",
+        "descripcion": "90/90-18 TT 6PR SY-025",
+        "precio": "150",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "4.60-17",
+        "descripcion": "4.60-17 TT 6PR SY-019",
+        "precio": "150",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "90/90-18",
+        "descripcion": "90/90-18 SY-060",
+        "precio": "150",
+        "marca": "ZUNNY"
+    },
+    {
+        "medida": "90/90-21",
+        "descripcion": "90/90-21 TT 6PR SY-149",
+        "precio": "200",
+        "marca": "ZUNNY"
+    }
+]
